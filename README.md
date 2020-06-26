@@ -1,5 +1,7 @@
 # Python-Data-Analysis-of-1-million-lines-Pandas
 
+The .csv file i was working with was 125mb and github wouldent allow me to upload it!
+
  # 1. Load the data and load chunks at the time!!!
  # 2. Print the data to the console
  # 3. Read The Columns
